@@ -7,7 +7,7 @@ The `stringComps` library provides functions for calculating various string comp
 ### levDist(const std::string& s1, const std::string& s2)
 
 Calculates the Levenshtein distance between two strings, which measures the difference between them as the number of edits needed to transform one string into the other.
-
+**Function:** `c++: levDist(const std::string& s1, const std::string& s2)`
 - **Parameters**
   - `s1`: The first string.
   - `s2`: The second string.
