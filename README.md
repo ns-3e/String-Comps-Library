@@ -74,6 +74,12 @@ Contributions to this library are welcome. Please submit pull requests to the re
 ## License
 
 Specify the license under which the library is released.
+
+## Author
+
+- **Name:** Nick Smith
+
+Feel free to reach out to the author for any queries or contributions to this project.
 ```
 
-This documentation gives a brief overview of what each function in the `stringComps` library does, how to use the library, and how to contribute or report issues. You should replace placeholder texts like the license information with the actual data applicable to your library.
+Replace "Your Name or Organization", "Your Email Address", and "http://example.com" with your actual name, contact email, and website (if applicable). This section will help users know who developed the library and how to contact you for further information or contributions.
