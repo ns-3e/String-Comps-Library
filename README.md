@@ -4,9 +4,7 @@ The `stringComps` library provides functions for calculating various string comp
 
 ## Functions
 
-### ```cpp
-levDist(string s1, string s2)
-```
+### levDist(string s1, string s2)
 
 Calculates the Levenshtein distance between two strings, which measures the difference between them as the number of edits needed to transform one string into the other.
 
@@ -19,9 +17,7 @@ levDist(const std::string& s1, const std::string& s2)
   - `s2`: The second string.
 - **Returns**: The Levenshtein distance as a percentage where 100% is a perfect match.
 
-### ```cpp
-jaroWinkler(string s1, string s2)
-```
+### jaroWinkler(string s1, string s2)
 
 Calculates the Jaro-Winkler similarity between two strings, which is a measure of similarity between two strings.
 
@@ -34,9 +30,7 @@ jaroWinkler(const std::string& s1, const std::string& s2)
   - `s2`: The second string.
 - **Returns**: A similarity score between 0.0 and 1.0, where 1.0 means an exact match.
 
-### ```cpp
-cosineSimilarity(string s1, string s2)
-```
+### cosineSimilarity(string s1, string s2)
 
 Calculates the cosine similarity between two strings based on the count of each character.
 
@@ -49,9 +43,7 @@ cosineSimilarity(const std::string& s1, const std::string& s2)
   - `s2`: The second string, represented as a vector of character frequencies.
 - **Returns**: The cosine similarity between the two strings as a double.
 
-### ```cpp
-jaccardSim(string s1, string s2)
-```
+### jaccardSim(string s1, string s2)
 
 Calculates the Jaccard similarity between two strings, which is the size of the intersection divided by the size of the union of the character sets.
 
@@ -64,9 +56,7 @@ jaccardSim(const std::string& s1, const std::string& s2)
   - `s2`: The second string.
 - **Returns**: The Jaccard similarity score.
 
-### ```cpp
-soundexSim(string s1, string s2)
-```
+### soundexSim(string s1, string s2)
 
 **Function:** ```cpp
 soundexSim(const std::string& s1, const std::string& s2)```
