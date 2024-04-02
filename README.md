@@ -77,9 +77,5 @@ Specify the license under which the library is released.
 
 ## Author
 
-- **Name:** Nick Smith
-
-Feel free to reach out to the author for any queries or contributions to this project.
-```
-
-Replace "Your Name or Organization", "Your Email Address", and "http://example.com" with your actual name, contact email, and website (if applicable). This section will help users know who developed the library and how to contact you for further information or contributions.
+- **Author:** Nick Smith
+- **Date:** 4.2.2024
