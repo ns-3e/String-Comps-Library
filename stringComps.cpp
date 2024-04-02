@@ -28,7 +28,7 @@ double stringComps::levDist(const std::string& s1, const std::string& s2){
     }
     distance = dp[len1 % 2][len2];
     int maxLength = std::max(s1.length(), s2.length());
-    return (1.0 - double(distance) / maxLength) * 100;
+    return (1.0 - double(distance) / maxLength);
 }   
 
 double stringComps::jaroWinkler(const std::string& s1, const std::string& s2){
