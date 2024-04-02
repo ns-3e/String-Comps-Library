@@ -1,6 +1,6 @@
 # C++ stringComps Library
 
-The `stringComps` library provides functions for calculating various string comparison metrics in C++. Below are the main functions available in this library.
+The `stringComps` library provides functions for fuzzy matching and calculating various string comparison metrics in C++. Below are the main functions available in this library.
 
 ## Functions
 
