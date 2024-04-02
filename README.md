@@ -39,8 +39,8 @@ Calculates the cosine similarity between two strings based on the count of each 
 cosineSimilarity(const std::string& s1, const std::string& s2)
 ```
 - **Parameters**
-  - `s1`: The first string, represented as a vector of character frequencies.
-  - `s2`: The second string, represented as a vector of character frequencies.
+  - `s1`: The first string.
+  - `s2`: The second string.
 - **Returns**: The cosine similarity between the two strings as a double.
 
 ### jaccardSim(string s1, string s2)
