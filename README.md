@@ -75,7 +75,7 @@ Contributions to this library are welcome. Please submit pull requests to the re
 
 MIT License
 
-Copyright (c) [2024] [Nick Smith]
+Copyright (c) 2024 Nick Smith
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
